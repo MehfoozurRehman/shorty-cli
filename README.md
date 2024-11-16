@@ -13,7 +13,3 @@ npm install -g shorty-cli
 ## License
 
 MIT
-
-```
-
-```
