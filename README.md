@@ -1,6 +1,6 @@
 # shorty-cli
 
-A simple CLI tool to shorten URLs using [shorty](
+A simple CLI tool to shorten URLs using [shorty](https://shortyurl.up.railway.app).
 
 ## Installation
 
