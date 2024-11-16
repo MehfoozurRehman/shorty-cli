@@ -1,11 +1,11 @@
 {
   "name": "shorty-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple CLI to shorten URLs",
   "main": "index.min.js",
   "type": "module",
   "bin": {
-    "shorty": "./index.js"
+    "shorty": "./index.min.js"
   },
   "scripts": {
     "new-version": "node publish.js"
