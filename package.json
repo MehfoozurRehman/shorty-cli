@@ -1,6 +1,6 @@
 {
   "name": "shorty-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI to shorten URLs",
   "main": "index.min.js",
   "type": "module",
