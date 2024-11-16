@@ -1,6 +1,6 @@
 {
   "name": "shorty-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple CLI to shorten URLs",
   "main": "index.min.js",
   "type": "module",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com//MehfoozurRehman/shorty-cli.git"
   },
   "author": "Mehfooz-ur-Rehman",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com//MehfoozurRehman/shorty-cli/issues"
   },
